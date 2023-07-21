@@ -1,0 +1,122 @@
+[
+  {
+    "VehicleId": 65,
+    "PlateNumber": "BU 4001",
+    "Manufacturer": "",
+    "Model": ""
+  },
+  {
+    "VehicleId": 68,
+    "PlateNumber": "MH 0707",
+    "Manufacturer": "BMW",
+    "Model": "X1"
+  },
+  {
+    "VehicleId": 69,
+    "PlateNumber": "MH 0001",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 70,
+    "PlateNumber": "MH 0002",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 71,
+    "PlateNumber": "MH 0003",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 72,
+    "PlateNumber": "MH 0004",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 73,
+    "PlateNumber": "MH 0005",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 74,
+    "PlateNumber": "MH 0006",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 75,
+    "PlateNumber": "MH 0007",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 76,
+    "PlateNumber": "MH 0008",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 77,
+    "PlateNumber": "MH 0009",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 78,
+    "PlateNumber": "MH 0010",
+    "Manufacturer": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "VehicleId": 79,
+    "PlateNumber": "MH 123",
+    "Manufacturer": "BMW",
+    "Model": "X5"
+  },
+  {
+    "VehicleId": 80,
+    "PlateNumber": "MH 0014",
+    "Manufacturer": "Audi",
+    "Model": "R8"
+  },
+  {
+    "VehicleId": 81,
+    "PlateNumber": "MH 0015",
+    "Manufacturer": "BMW",
+    "Model": "Q1"
+  },
+  {
+    "VehicleId": 82,
+    "PlateNumber": "MH 0017",
+    "Manufacturer": "Audi ",
+    "Model": "Q5"
+  },
+  {
+    "VehicleId": 83,
+    "PlateNumber": "MH 0018",
+    "Manufacturer": "BMW",
+    "Model": "Q5"
+  },
+  {
+    "VehicleId": 84,
+    "PlateNumber": "MH 0019",
+    "Manufacturer": "Honda",
+    "Model": "H1"
+  },
+  {
+    "VehicleId": 85,
+    "PlateNumber": "MH 0020",
+    "Manufacturer": "Honda",
+    "Model": "H10"
+  },
+  {
+    "VehicleId": 87,
+    "PlateNumber": "SYR 7290",
+    "Manufacturer": "HONDA",
+    "Model": "Civic"
+  }
+]

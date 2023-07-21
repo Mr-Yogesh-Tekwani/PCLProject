@@ -1,0 +1,475 @@
+[
+  {
+    "Route": {
+      "RouteNo": 85,
+      "RouteName": "Route 1",
+      "DriverId": 129,
+      "DriverName": "Driver 1",
+      "VehicleNo": "BU 4000"
+    },
+    "Customer": [
+      {
+        "CustomerId": 119,
+        "CustomerName": "Test1",
+        "StreetAddress": "66 Romaine Avenue",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Zip": "7306",
+        "PickUpTime": "2023-07-19 22:12",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      },
+      {
+        "CustomerId": 120,
+        "CustomerName": "Test 3",
+        "StreetAddress": "230 Brunswick St",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Zip": "07302",
+        "PickUpTime": "2023-07-19 2023-02-09",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.727926,
+        "Cust_Log": -74.050033
+      },
+      {
+        "CustomerId": 141,
+        "CustomerName": "Customer 22",
+        "StreetAddress": "208 South street, NJ",
+        "City": "Jersey City",
+        "State": "",
+        "Zip": "07307",
+        "PickUpTime": "2023-07-19 09:29 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 86,
+      "RouteName": "JSQ",
+      "DriverId": 138,
+      "DriverName": "Driver  3",
+      "VehicleNo": "MH 0003"
+    },
+    "Customer": [
+      {
+        "CustomerId": 121,
+        "CustomerName": "Customer 3",
+        "StreetAddress": "278 Central Ave",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Zip": "07307",
+        "PickUpTime": "2023-07-19 2023-02-09",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.7442816,
+        "Cust_Log": -74.050405
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 87,
+      "RouteName": "NJ",
+      "DriverId": 140,
+      "DriverName": "Driver 5",
+      "VehicleNo": "MH 0005"
+    },
+    "Customer": [
+      {
+        "CustomerId": 123,
+        "CustomerName": "Customer 5",
+        "StreetAddress": "1226 Bergenline Ave",
+        "City": "Union City",
+        "State": "NJ",
+        "Zip": "07087",
+        "PickUpTime": "2023-07-19 2023-02-09",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.7599708,
+        "Cust_Log": -74.0373113
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 88,
+      "RouteName": "NY",
+      "DriverId": 141,
+      "DriverName": "Driver 7",
+      "VehicleNo": "MH 0007"
+    },
+    "Customer": [
+      {
+        "CustomerId": 125,
+        "CustomerName": "Customer 7",
+        "StreetAddress": "400 High St",
+        "City": "City of Orange",
+        "State": "NJ",
+        "Zip": "07050",
+        "PickUpTime": "2023-07-19 2023-02-09",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.78322,
+        "Cust_Log": -74.2255668
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 89,
+      "RouteName": "Xyz",
+      "DriverId": 139,
+      "DriverName": "Driver 4",
+      "VehicleNo": "MH 0004"
+    },
+    "Customer": [
+      {
+        "CustomerId": 122,
+        "CustomerName": "Customer 41",
+        "StreetAddress": "200 West 44th St",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10036",
+        "PickUpTime": "2023-07-19 2023-02-09",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.7575108,
+        "Cust_Log": -73.9867126
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 90,
+      "RouteName": "Boston",
+      "DriverId": 142,
+      "DriverName": "Driver 8",
+      "VehicleNo": "MH 0008"
+    },
+    "Customer": [
+      {
+        "CustomerId": 126,
+        "CustomerName": "Customer 80",
+        "StreetAddress": "66 Romaine Avenue",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Zip": "7306",
+        "PickUpTime": "2023-07-19 07:34",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 91,
+      "RouteName": "WTC",
+      "DriverId": 143,
+      "DriverName": "Driver 9",
+      "VehicleNo": "MH 0009"
+    },
+    "Customer": [
+      {
+        "CustomerId": 127,
+        "CustomerName": "Customer 9 ",
+        "StreetAddress": "185 Greenwich St",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10006",
+        "PickUpTime": "2023-07-19 04:41 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 92,
+      "RouteName": "Naren’s Route",
+      "DriverId": 148,
+      "DriverName": "Naren Mathawan",
+      "VehicleNo": "MH 123"
+    },
+    "Customer": [
+      {
+        "CustomerId": 128,
+        "CustomerName": "Customer Naren",
+        "StreetAddress": "487 Devon Park drive",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "PickUpTime": "2023-07-19 03:15 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 93,
+      "RouteName": "Camp",
+      "DriverId": 149,
+      "DriverName": "Driver 14",
+      "VehicleNo": "MH 0014"
+    },
+    "Customer": [
+      {
+        "CustomerId": 129,
+        "CustomerName": "Customer 14 ",
+        "StreetAddress": "144 Fulton St",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10038",
+        "PickUpTime": "2023-07-19 19:30",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      },
+      {
+        "CustomerId": 127,
+        "CustomerName": "Customer 9 ",
+        "StreetAddress": "185 Greenwich St",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10006",
+        "PickUpTime": "2023-07-19 04:41 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 94,
+      "RouteName": "Newarkk",
+      "DriverId": 150,
+      "DriverName": "Driver 15",
+      "VehicleNo": "MH 0015"
+    },
+    "Customer": [
+      {
+        "CustomerId": 130,
+        "CustomerName": "Customer15",
+        "StreetAddress": "wefgbhn",
+        "City": "NY",
+        "State": "NY",
+        "Zip": "445544",
+        "PickUpTime": "2023-07-19 03:55 AM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 23.567,
+        "Cust_Log": 56.78
+      },
+      {
+        "CustomerId": 131,
+        "CustomerName": " Cust 16",
+        "StreetAddress": "Wsdfgh",
+        "City": "New York",
+        "State": "",
+        "Zip": "12345",
+        "PickUpTime": "2023-07-19 03:46 AM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 95,
+      "RouteName": "Union city",
+      "DriverId": 151,
+      "DriverName": "Driver  17",
+      "VehicleNo": "MH 0017"
+    },
+    "Customer": [
+      {
+        "CustomerId": 132,
+        "CustomerName": "Customer 17 ",
+        "StreetAddress": "594 Palisade Ave",
+        "City": "Jersey City",
+        "State": "",
+        "Zip": "07307",
+        "PickUpTime": "2023-07-19 03:56 AM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 96,
+      "RouteName": "Miami",
+      "DriverId": 152,
+      "DriverName": "Driver  18",
+      "VehicleNo": "MH 0018"
+    },
+    "Customer": [
+      {
+        "CustomerId": 133,
+        "CustomerName": "Customer 18",
+        "StreetAddress": "112 48th St, Union City, NJ 07087",
+        "City": "Union City",
+        "State": "",
+        "Zip": "07087",
+        "PickUpTime": "2023-07-19 05:22 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      },
+      {
+        "CustomerId": 134,
+        "CustomerName": "Customer Demo",
+        "StreetAddress": "ABC",
+        "City": "Ab",
+        "State": "",
+        "Zip": "09876",
+        "PickUpTime": "2023-07-19 04:23 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      },
+      {
+        "CustomerId": 128,
+        "CustomerName": "Customer Naren",
+        "StreetAddress": "487 Devon Park drive",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "PickUpTime": "2023-07-19 03:15 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 97,
+      "RouteName": "US",
+      "DriverId": 153,
+      "DriverName": "Driver 19",
+      "VehicleNo": "MH 0019"
+    },
+    "Customer": [
+      {
+        "CustomerId": 135,
+        "CustomerName": "Customer 19 ",
+        "StreetAddress": "4101 Bergenline Ave",
+        "City": "Union City",
+        "State": "",
+        "Zip": "07087",
+        "PickUpTime": "2023-07-19 04:14 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 98,
+      "RouteName": "Usdddd",
+      "DriverId": 154,
+      "DriverName": "Driver 20",
+      "VehicleNo": "MH 0020"
+    },
+    "Customer": [
+      {
+        "CustomerId": 136,
+        "CustomerName": "Customer 20",
+        "StreetAddress": "4525 Broadway",
+        "City": "Union City",
+        "State": "",
+        "Zip": "07087",
+        "PickUpTime": "2023-07-19 05:20 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      },
+      {
+        "CustomerId": 137,
+        "CustomerName": "Customer 21",
+        "StreetAddress": "112 48th St",
+        "City": "Union City",
+        "State": "",
+        "Zip": "07807",
+        "PickUpTime": "2023-07-19 06:22 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 40.785164,
+        "Cust_Log": -74.018962
+      }
+    ]
+  },
+  {
+    "Route": {
+      "RouteNo": 99,
+      "RouteName": "200 Vincent Street",
+      "DriverId": 160,
+      "DriverName": "Latest Driver",
+      "VehicleNo": "SYR 7290"
+    },
+    "Customer": [
+      {
+        "CustomerId": 142,
+        "CustomerName": "Latest Customer",
+        "StreetAddress": "Syracuse House",
+        "City": "Syracuse",
+        "State": "New York",
+        "Zip": "13204",
+        "PickUpTime": "2023-07-19 06:38 PM",
+        "SpecimensCollected": 0,
+        "CollectionStatus": "Not Collected",
+        "IsSelected": true,
+        "Cust_Lat": 0,
+        "Cust_Log": 0
+      }
+    ]
+  }
+]
